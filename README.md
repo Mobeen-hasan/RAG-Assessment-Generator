@@ -49,4 +49,4 @@ Q-Genius allows fine-tuning of the RAG pipeline:
    ```
 
 ---
-Original project by [Aman Asif](https://github.com/amanasif01), copied from [amanasif01/Q-Genius-RAG-Assessment-Generator-](https://github.com/amanasif01/Q-Genius-RAG-Assessment-Generator-).
+Group project by [Aman Asif](https://github.com/amanasif01) and [Mobeen Hasan](https://github.com/Mobeen-hasan). Original repository: [amanasif01/Q-Genius-RAG-Assessment-Generator-](https://github.com/amanasif01/Q-Genius-RAG-Assessment-Generator-).
