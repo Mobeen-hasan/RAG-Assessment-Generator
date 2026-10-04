@@ -1,0 +1,16 @@
+# Python ignore
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.env
+.streamlit/
+*.log
+data/
+
+# Generated at runtime
+chroma_db_*/
+evaluation_results.json
