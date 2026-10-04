@@ -48,5 +48,3 @@ Q-Genius allows fine-tuning of the RAG pipeline:
    streamlit run app.py
    ```
 
----
-Group project by [Aman Asif](https://github.com/amanasif01) and [Mobeen Hasan](https://github.com/Mobeen-hasan). Original repository: [amanasif01/Q-Genius-RAG-Assessment-Generator-](https://github.com/amanasif01/Q-Genius-RAG-Assessment-Generator-).
